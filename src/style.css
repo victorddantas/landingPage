@@ -1,0 +1,62 @@
+.img_carousel {
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 400px;
+}
+
+.img_carousel_revenue {
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 200px;
+}
+
+.font_title {
+    font-family: 'Pacifico', cursive
+}
+
+.font_color {
+    color: #8b0000!important;
+}
+
+.btn_special {
+    background-color: #8b0000;
+    color: #ffffff;
+}
+
+.border_color {
+    border-color: #8b0000;
+}
+
+.img_card {
+    object-fit: cover;
+    height: 200px;
+}
+
+.card_width {
+    max-width: 20rem;
+}
+
+.img_card_revenue {
+    object-fit: cover;
+    height: 200px;
+}
+.card_width_revenue {
+    max-width: 100%;
+    object-fit: cover;
+    height: 400px;
+    opacity: 0.4;
+}
+
+.font_revenue {
+    font-size: 12px;
+}
+
+.img_card_about {
+    object-fit: cover;
+    height: 100px;
+}
+
+.img_social {
+    width: 2%;
+
+}
